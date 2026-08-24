@@ -1,29 +1,29 @@
-# Huong Giang Portfolio
+# Hương Giang Portfolio
 
-Portfolio ca nhan cua Nguyen Duc Huong Giang, dinh huong Data Analyst / Business Intelligence Intern. Website gioi thieu thong tin ca nhan, kinh nghiem, du an, ky nang va cach lien he.
+Portfolio cá nhân của Nguyễn Đức Hương Giang, định hướng Data Analyst / Business Intelligence Intern. Website giới thiệu thông tin cá nhân, kinh nghiệm, dự án, kỹ năng và cách liên hệ.
 
 ## Live demo
 
-Website da duoc deploy tai:
+Website đã được deploy tại:
 
 [https://huonggiang-portfolio.vercel.app](https://huonggiang-portfolio.vercel.app)
 
-## Tinh nang chinh
+## Tính năng chính
 
-- Gioi thieu ho so va dinh huong nghe nghiep.
-- Hien thi kinh nghiem, hoc van va cac thong tin noi bat.
-- Trinh bay du an phan tich du lieu va ky nang lien quan.
-- Giao dien responsive, phu hop voi desktop va mobile.
-- Su dung HTML, CSS va JavaScript thuan, de chinh sua va trien khai.
+- Giới thiệu hồ sơ và định hướng nghề nghiệp.
+- Hiển thị kinh nghiệm, học vấn và các thông tin nổi bật.
+- Trình bày dự án phân tích dữ liệu và kỹ năng liên quan.
+- Giao diện responsive, phù hợp với desktop và mobile.
+- Sử dụng HTML, CSS và JavaScript thuần, dễ chỉnh sửa và triển khai.
 
-## Cong nghe su dung
+## Công nghệ sử dụng
 
 - HTML5
 - CSS3
 - JavaScript
 - Vercel
 
-## Cau truc thu muc
+## Cấu trúc thư mục
 
 ```text
 .
@@ -34,18 +34,18 @@ Website da duoc deploy tai:
 `-- README.md
 ```
 
-## Chay du an tren may local
+## Chạy dự án trên máy local
 
-Vi day la website tinh, ban co the mo truc tiep file `index.html` trong trinh duyet.
+Vì đây là website tĩnh, bạn có thể mở trực tiếp file `index.html` trong trình duyệt.
 
-Neu muon chay bang server local, co the dung:
+Nếu muốn chạy bằng server local, có thể dùng:
 
 ```powershell
 npx serve .
 ```
 
-Sau do mo dia chi local duoc hien thi trong terminal.
+Sau đó mở địa chỉ local được hiển thị trong terminal.
 
-## Tac gia
+## Tác giả
 
-Nguyen Duc Huong Giang
+Nguyễn Đức Hương Giang
